@@ -33,7 +33,7 @@ impl ListNearPoints2D {
                 }
 
                 points.into_iter()
-            }) // TODO y<->x, +-
+            })
             .collect()
     }
 }
