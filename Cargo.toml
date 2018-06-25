@@ -1,0 +1,6 @@
+[package]
+name = "lattpt"
+version = "0.1.0"
+authors = ["Hajime Fukuda <hajime.fukuda@me.com>"]
+
+[dependencies]
